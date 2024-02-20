@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cosalt/cosalt/blob/main/snake.yml" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/cosalt/cosalt/blob/main/snake.yml](https://github.com/cosalt/cosalt/blob/35427c3d6d4266d7fd026c39e67387630f4e1ff6/workflows/snake.yml)" alt="Snake animation" />
 
 ###
 
