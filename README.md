@@ -48,3 +48,5 @@
 </div>
 
 ###
+
+<img src="https://example.com/path/to/snake_animation.gif" alt="Snake animation" />
