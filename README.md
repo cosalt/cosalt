@@ -35,12 +35,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://example.com/path/to/snake_animation.gif" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/h3h12hxhebi8zv2tbb4bxnsi1">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=h3h12hxhebi8zv2tbb4bxnsi1&count=3" alt="Spotify recently played"  />
@@ -48,5 +42,3 @@
 </div>
 
 ###
-
-<img src="https://example.com/path/to/snake_animation.gif" alt="Snake animation" />
