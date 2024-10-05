@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ray and I'm in Year 12. I'm half Thai/British</h2>
+<h2 align="center">Hi 👋! My name is Ray and I'm in Year 13. I'm half Thai/British</h2>
 
 ###
 
