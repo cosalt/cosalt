@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋! My name is Ray and I'm in Year 13</h2>
-## I, one day, want to be a Quant Software Engineer
 ###
 
 <div align="center">
