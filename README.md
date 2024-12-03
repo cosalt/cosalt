@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ray and I'm in Year 13</h2>
+<h2 align="center">Hi 👋! I'm Ray and I'm in Year 13</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cosalt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
