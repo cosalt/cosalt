@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/cosalt/cosalt/blob/c91dda89c9727e288fe4ea35732d971a7c7a350c/fan-1.gif" alt="Fan" align="center">
+</div>
+
 <h2 align="center">Hi 👋! I'm Ray and I'm in Year 13</h2>
 
 <div align="center">
