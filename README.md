@@ -12,12 +12,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cosalt.cosalt&"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://open.spotify.com/user/h3h12hxhebi8zv2tbb4bxnsi1">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=h3h12hxhebi8zv2tbb4bxnsi1&count=3" alt="Spotify recently played"  />
   </a>
@@ -25,3 +19,8 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cosalt.cosalt&"  />
+</div>
+
+###
