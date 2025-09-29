@@ -23,7 +23,7 @@ I'm a BSc (Hons) Computing Science student at the University of East Anglia with
 
 * Exploring machine learning applications in finance using TensorFlow.
 * Deepening my understanding of low-latency systems with C++.
-* Refining my Java skills.
+* Bloomberg Terminal
 
 ---
 
