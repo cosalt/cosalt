@@ -30,6 +30,7 @@ I'm a BSc (Hons) Computing Science student at the University of East Anglia with
 ### 🔭 My Projects
 
 * **[Quantitative Trading Tool](https://github.com/cosalt/Quantitative-Trading-Tool)**: A GUI built in Streamlit to calculate call and put values from user input. It applies the Black-Scholes model using NumPy and implements a client-server architecture for scalability.
+* **[Quantitative Finance Algorithms & Models](https://github.com/cosalt/Quant-Algorithms)**: This project serves as my personal journey into the world of financial models, algorithms, and quantitative analysis.
 * **[Scheduling Algorithms](https://github.com/cosalt/scheduling-algorithms)**: An implementation of the Round-Robin scheduling algorithm to simulate CPU process management.
 * **[Reverse Polish Notation (RPN) Calculator](https://github.com/cosalt/Reverse-Polish-Notation-Calculator)**: A stack-based calculator designed to parse and evaluate mathematical expressions written in RPN.
 * **[Lexical Analyzer](https://github.com/cosalt/lexical-analyzer)**: A simple lexical analyzer to scan source code and convert it into a sequence of tokens.
