@@ -55,5 +55,5 @@ When I'm not coding, I'm actively involved in my university community. I'm a mem
 
 I'm always open to connecting and collaborating. Feel free to reach out!
 
-* **[LinkedIn](https://www.linkedin.com/in/nawin-martin/)**
+* **[LinkedIn](https://www.linkedin.com/in/raymartin/)**
 * **[Instagram](https://www.instagram.com/_cosalt/)**
