@@ -41,7 +41,7 @@ I'm a BSc (Hons) Computing Science student at the University of East Anglia with
 
 ### 💻 Tech & Skills
 
-**Python | Java | C++ | C | Assembly | SQL | Prolog | Git | Streamlit | NumPy | Google Cloud | Interactive Brokers API**
+**Python | Java | C++ | C | HTML | CSS | JS | Assembly | SQL | Prolog | Git | Streamlit | NumPy | Google Cloud | Interactive Brokers API**
 
 ---
 
