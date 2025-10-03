@@ -37,6 +37,7 @@ I'm a BSc (Hons) Computing Science student at the University of East Anglia with
 * **[Recursive Caesar Cipher Algorithm](https://github.com/cosalt/Recursive-Caesar-Cipher-Algorithm)**: A recursive implementation of the classic Caesar cipher, focusing on an elegant and efficient approach to encryption.
 * **[Motor:Bit Obstacle Avoidance Robot](https://github.com/cosalt/RoboticsMotorBit)**: Code for a robot designed to navigate its environment, which helped my team earn 2nd place in the Bangkok Robotics Competition.
 
+##### and there's a lot more but i don't have the time to finish them...
 ---
 
 ### 💻 Tech & Skills
