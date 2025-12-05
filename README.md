@@ -49,4 +49,4 @@ brokey i will fix later!
 
 ### 🚀 Interests & Activities
 
-When I'm not coding, I'm actively involved in my university community. I'm a member of the **Finance and Investment Society** and the **Oakwood Fund**, where I explore financial markets and investment strategies. I also enjoy cycling, going to the gym and gardening(i've got a 200 cacti🌵 collection and a 5 and growing bonsai collection. i also like to experiment in cross-breeding peppers🌶️)
+When I'm not coding, I'm actively involved in my university community. I help manage the **Finance and Investment Society** and **Oakwood Fund** as a Portfolio Manager, where I explore financial markets and investment strategies. I also enjoy cycling, going to the gym and gardening(i've got a 200 cacti🌵 collection and a 5 and growing bonsai collection. i also like to experiment in cross-breeding peppers🌶️)
