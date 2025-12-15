@@ -10,9 +10,9 @@ I'm a BSc (Hons) Computing Science student at the University of East Anglia with
 
 ### 📊 My GitHub Stats
 
-// [![Nawin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosalt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-// [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosalt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-brokey i will fix later! 
+[![Nawin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosalt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosalt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cosalt.cosalt&"  />
