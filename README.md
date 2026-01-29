@@ -8,27 +8,15 @@ I'm a BSc (Hons) Computing Science student at the University of East Anglia with
 
 ---
 
-### 📊 My GitHub Stats
+### I'm Currently Learning
 
-[![Nawin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosalt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosalt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cosalt.cosalt&"  />
-</div>
-
----
-
-### 🌱 I'm Currently Learning
-
-* Exploring machine learning applications in finance using TensorFlow.
+* Risk analysis & Greeks. 
 * Deepening my understanding of low-latency systems with C++.
-* Studying for the Bloomberg Market Concepts Certificate
+* Studying for the Bloomberg Market Concepts Certificate.
 
 ---
 
-### 🔭 My Projects
+### My Projects
 
 * **[Quantitative Trading Tool](https://github.com/cosalt/Quantitative-Trading-Tool)**: A GUI built in Streamlit to calculate call and put values from user input. It applies the Black-Scholes model using NumPy and implements a client-server architecture for scalability.
 * **[Quantitative Finance Algorithms & Models](https://github.com/cosalt/Quant-Algorithms)**: This project serves as my personal journey into the world of financial models, algorithms, and quantitative analysis.
@@ -41,12 +29,16 @@ I'm a BSc (Hons) Computing Science student at the University of East Anglia with
 ##### and there's a lot more but i don't have the time to finish them...
 ---
 
-### 💻 Tech & Skills
+### Tech & Skills
 
-**Python | Java | C++ | C | HTML | CSS | JS | Assembly | SQL | Prolog | Git | Streamlit | NumPy | Google Cloud | Interactive Brokers API**
+**Python • C++ • C • Java • Assembly • SQL • Prolog • Machine Learning • Git • Excel • Financial Modeling • Valuation • Risk Analysis**
 
 ---
 
-### 🚀 Interests & Activities
+### Interests & Activities
 
-When I'm not coding, I'm actively involved in my university community. I help manage the **Finance and Investment Society** and **Oakwood Fund** as a Portfolio Manager, where I explore financial markets and investment strategies. I also enjoy cycling, going to the gym and gardening(i've got a 200 cacti🌵 collection and a 5 and growing bonsai collection. i also like to experiment in cross-breeding peppers🌶️)
+When I'm not coding or looking at financial graphs all day long, I'm actively involved in my university community. I help manage the **Finance and Investment Society** and **Oakwood Fund** as a Portfolio Manager, where I explore financial markets and investment strategies. I also enjoy cycling, going to the gym and gardening(i've got a 200 cacti🌵 collection and a 5 and growing bonsai collection. i also like to experiment in cross-breeding peppers and tomatoes 🌶️)
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cosalt.cosalt&"  />
+</div>
