@@ -11,7 +11,7 @@ I'm a BSc (Hons) Computing Science student at the University of East Anglia with
 ### I'm Currently Learning
 
 * Risk analysis & Greeks. 
-* Deepening my understanding of low-latency systems with C++.
+* Deepening my understanding of low-latency and dynamic programming C++.
 * Studying for the Bloomberg Market Concepts Certificate.
 
 ---
