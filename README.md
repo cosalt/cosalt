@@ -24,7 +24,7 @@ I'm a Computing Science student at the University of East Anglia with a speciali
 
 ### Interests & Activities
 
-When I'm not coding or at the bloomberg terminals all day long, I'm actively involved in my university community. I help manage the **Finance and Investment Society** and **Oakwood Fund** as a Portfolio Manager, where I explore financial markets and investment strategies. I also enjoy cycling, going to the gym and gardening(i've got a 200 cacti🌵 collection and a 5 and growing bonsai collection. i also like to experiment in cross-breeding peppers and tomatoes 🌶️ for fun)
+When I'm not coding or at the bloomberg terminals all day long, I'm actively involved in my university community. I help manage the **Finance and Investment Society** and **Oakwood Fund** as a Portfolio Manager, where I explore financial markets and investment strategies. I also enjoy cycling, going to the gym and gardening(i've got a 200 cacti🌵 collection and a 5 and growing bonsai collection). i also like to experiment in cross-breeding peppers and tomatoes 🌶️ for fun!
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=cosalt.cosalt&"  />
