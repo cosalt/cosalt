@@ -18,7 +18,7 @@ I'm a Computing Science student at the University of East Anglia with a speciali
 
 ### Tech & Skills
 
-**Python • C++ • C • Java • Assembly • SQL • Prolog • Machine Learning • Git • Excel • Financial Modeling • Valuation • Risk Analysis**
+**Python • C++ • C • Java • SQL • Machine Learning • Excel • Financial Modeling • Risk Analysis**
 
 ---
 
